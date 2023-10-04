@@ -1,0 +1,90 @@
+p{
+  font-family: Roboto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.video-title{
+  
+  font-size: 18px;
+  font-weight: bold;
+  width: 280px;
+  line-height: 24px;
+  text-align: left;
+  color: rgb(33, 37, 41);
+  margin-bottom: 5px;
+
+}
+.video-stats{
+  
+  font-size: 14px;
+  color:rgb(96, 96, 96);
+ 
+  margin-bottom: 20px;
+}
+.channel-name{
+  
+  font-size: 14px;
+  color:rgb(96, 96, 96);
+ 
+  margin-bottom: 20px;
+}
+.video-description{
+
+  font-size: 14px;
+  color:rgb(96, 96, 96);
+  width: 280px;
+ 
+  line-height: 22px;
+  margin-bottom: 100px;
+}
+.apple-text{
+margin-bottom: 50px;
+font-size: 14px;
+background-color: rgb(227, 65, 64);
+color:white;
+padding-left: 16px;
+padding-right: 16px;
+padding-top: 16px;
+padding-bottom: 16px;
+text-align: center;
+
+}
+.example-span{
+cursor: pointer;
+}
+.example-span:hover{
+text-decoration: underline;
+
+} 
+.example-space{
+color:red;
+margin-left: 12px;
+}
+.example-space:hover{
+text-decoration: underline;
+}
+</style>
+<style>
+.title1{
+ 
+  font-weight: bold;
+}
+.title2{
+  color:gray;
+  margin-bottom: 15px;
+}
+.title3{
+  width: 250px;
+  margin-bottom: 15px;
+}
+.button1{
+  background-color: green;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: none;
+  border-radius: 3px;
+
+}
